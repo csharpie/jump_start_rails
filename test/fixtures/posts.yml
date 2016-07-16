@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: The first post
+  blurb: Blah Blahhhhhhh
+  body: This is my blah blah okay
+
+two:
+  title: My second post
+  blurb: Huhhhhhhhhhh
+  body: Don't run away dawg
